@@ -1,0 +1,27 @@
+html{
+    background-image: url(./Rick\ and\ Morty.jpg);
+}
+#title{
+    text-align: center;
+    padding: 10px 30px;
+    color:brown;
+    width: 40%;
+    margin-top: 10%;
+    margin-left: 25%;
+    border-radius: 50%;
+    border: 20px solid greenyellow;
+     
+}
+
+#paragraph{
+    color:green;
+    padding: 20px;
+    width: 25%;
+    margin-top: 15%;
+    margin-left: 40%;
+    
+    font-size: 20pt;
+    text-align:left;
+    
+   
+}
